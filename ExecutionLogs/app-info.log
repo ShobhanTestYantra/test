@@ -1,0 +1,6 @@
+[DEBUG] 2019-08-30 16:22:11.356 | [main] examples.Log4j2HelloWorldExample (Log4j2HelloWorldExample.java:11) - This Will Be Printed On Debug
+[INFO ] 2019-08-30 16:22:11.359 | [main] examples.Log4j2HelloWorldExample (Log4j2HelloWorldExample.java:12) - This Will Be Printed On Info
+[WARN ] 2019-08-30 16:22:11.359 | [main] examples.Log4j2HelloWorldExample (Log4j2HelloWorldExample.java:13) - This Will Be Printed On Warn
+[ERROR] 2019-08-30 16:22:11.359 | [main] examples.Log4j2HelloWorldExample (Log4j2HelloWorldExample.java:14) - This Will Be Printed On Error
+[FATAL] 2019-08-30 16:22:11.359 | [main] examples.Log4j2HelloWorldExample (Log4j2HelloWorldExample.java:15) - This Will Be Printed On Fatal
+[INFO ] 2019-08-30 16:22:11.360 | [main] examples.Log4j2HelloWorldExample (Log4j2HelloWorldExample.java:16) - Appending string: Hello, World2.

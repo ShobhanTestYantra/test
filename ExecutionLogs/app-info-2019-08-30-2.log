@@ -1,0 +1,6 @@
+[DEBUG] 2019-08-30 15:38:10.744 [main] Log4j2HelloWorldExample - This Will Be Printed On Debug
+[INFO ] 2019-08-30 15:38:10.747 [main] Log4j2HelloWorldExample - This Will Be Printed On Info
+[WARN ] 2019-08-30 15:38:10.747 [main] Log4j2HelloWorldExample - This Will Be Printed On Warn
+[ERROR] 2019-08-30 15:38:10.747 [main] Log4j2HelloWorldExample - This Will Be Printed On Error
+[FATAL] 2019-08-30 15:38:10.747 [main] Log4j2HelloWorldExample - This Will Be Printed On Fatal
+[INFO ] 2019-08-30 15:38:10.748 [main] Log4j2HelloWorldExample - Appending string: Hello, World2.
